@@ -1,0 +1,14 @@
+Enterprise Application Development Using Python Powered by AI
+Organization: Pentagon Space
+
+Day 1 – Orientation & Overview
+- Internship orientation and introduction
+- Overview of enterprise application development using Python
+- Understanding internship structure, objectives, and outcomes
+- Introduction to AI integration in enterprise applications
+
+Day 2 – Application Architecture
+- Studied enterprise Python application architecture
+- Understood frontend, backend, database, and API interactions
+- Created system design and flow diagrams
+- Learned request–response workflow in Python-based applications
