@@ -1,0 +1,13 @@
+## Day 09 – SQL Subqueries & Nested Queries (11 Feb 2026)
+
+- Introduction to SQL Subqueries
+- Types of Subqueries:
+  - Single-row subquery
+  - Multi-row subquery
+  - Correlated subquery
+- Use of operators: IN, ANY, ALL, EXISTS
+- Practice on nested subquery assignments
+- Applied subqueries for advanced data filtering
+
+This session focused on understanding complex query execution
+used in enterprise database systems.
