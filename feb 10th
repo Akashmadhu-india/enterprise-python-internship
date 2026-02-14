@@ -1,0 +1,11 @@
+learned strucutured query language concepts of database management . practiced select statements filtering records using where clause and executing subqueries .
+## Day 08 – SQL & Database Queries (10 Feb 2026)
+
+- Introduction to Structured Query Language (SQL)
+- Executed SELECT statements
+- Used WHERE clause for filtering records
+- Practiced subqueries for nested data retrieval
+- Observed relational database structure and query execution
+
+This session focused on understanding how enterprise applications
+store and retrieve structured data using SQL.
