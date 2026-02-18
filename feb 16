@@ -1,0 +1,7 @@
+## Day 13 – Self Join & Correlated Subquery (16 Feb 2026)
+
+- Implemented Self Join to retrieve hierarchical data
+- Understood employee-manager relationship using self join
+- Studied Correlated Subqueries
+- Executed dependent subqueries within outer queries
+- Completed assignment on Self Join
