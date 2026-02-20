@@ -1,0 +1,12 @@
+## Day 16 – DML Statements & Transaction Behavior (19 Feb 2026)
+
+- Detailed study of DML commands:
+  - INSERT
+  - UPDATE
+  - DELETE
+- Understood transaction control concept
+- Learned about auto-commit behavior
+- Observed how changes can be committed or rolled back
+- Practiced DML statement execution
+
+Focused on practical data manipulation in relational databases.
