@@ -1,0 +1,18 @@
+## Day 17 – SQL Built-in Functions (String, Numeric & Date) (20 Feb 2026)
+
+### String Functions
+- INSTR()
+- REPLACE()
+- SUBSTR()
+
+### Numeric Functions
+- ROUND()
+- TRUNC()
+
+### Date Functions
+- MONTHS_BETWEEN()
+- LAST_DAY()
+- TO_CHAR()
+
+Practiced executing queries using built-in functions
+to manipulate strings, numbers, and dates in Oracle SQL.
