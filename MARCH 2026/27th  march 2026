@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table</title>
+</head>
+<body>
+
+<table border="1">
+    <caption>Employee Details</caption>
+
+    <tr>
+        <th>Name</th>
+        <th>Age</th>
+        <th>Location</th>
+        <th>Job</th>
+    </tr>
+
+    <tr>
+        <td>Akash</td>
+        <td>21</td>
+        <td>Chennai</td>
+        <td>Developer</td>
+    </tr>
+
+    <tr>
+        <td>Rahul</td>
+        <td>22</td>
+        <td>Bangalore</td>
+        <td>Engineer</td>
+    </tr>
+
+</table>
+
+</body>
+</html>

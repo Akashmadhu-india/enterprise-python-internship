@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formatting Tags</title>
+</head>
+<body>
+
+<b>This is bold text</b><br>
+<i>This is italic text</i><br>
+<u>This is underlined text</u><br>
+
+X<sup>2</sup> + Y<sup>2</sup><br>
+H<sub>2</sub>O<br>
+
+<small>Small text</small><br>
+<big>Big text</big><br>
+
+<mark>Highlighted text</mark><br>
+<q>This is a quote</q><br>
+
+<em>Emphasized text</em><br>
+<strong>Strong text</strong><br>
+
+<ins>Inserted text</ins><br>
+
+<code>console.log("Hello");</code><br>
+
+<var>a = b + c</var>
+
+</body>
+</html>

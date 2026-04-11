@@ -1,0 +1,9 @@
+## Day 19 – Normalization & Key Attributes (23 Feb 2026)
+
+- Studied 1NF, 2NF, 3NF
+- Understood functional dependencies
+- Learned about key attributes:
+  - Primary Key
+  - Candidate Key
+  - Foreign Key
+- Learned how normalization reduces redundancy

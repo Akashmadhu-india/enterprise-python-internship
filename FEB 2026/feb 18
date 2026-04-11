@@ -1,0 +1,7 @@
+## Day 15 – SQL Command Types (DDL, DML, TCL, DCL) (18 Feb 2026)
+
+- Studied Data Definition Language (DDL)
+  - CREATE, ALTER, DROP, TRUNCATE
+- Studied Data Manipulation Language (DML)
+  - INSERT, UPDATE, DELETE
+- Introduction to Transaction Control Language (TCL)
