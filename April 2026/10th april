@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Basics</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            background-color: #f2f2f2;
+        }
+
+        h1 {
+            color: darkblue;
+            text-align: center;
+        }
+
+        p {
+            color: #333;
+        }
+
+        /* Anchor styling */
+        a {
+            text-decoration: none;
+            color: green;
+        }
+
+        a:hover {
+            color: red;
+        }
+
+        /* Input focus */
+        input:focus {
+            background-color: lightyellow;
+            border: 2px solid orange;
+            outline: none;
+        }
+
+        /* Div styling */
+        #box {
+            height: 200px;
+            width: 200px;
+            background-color: lightblue;
+            margin-top: 20px;
+        }
+
+        #box:hover {
+            background-color: coral;
+            border-radius: 20px;
+        }
+
+    </style>
+
+</head>
+<body>
+
+<h1>CSS Practice</h1>
+
+<p>This page demonstrates basic CSS styling.</p>
+
+<a href="#">Click Me</a><br><br>
+
+<input type="text" placeholder="Click to focus"><br><br>
+
+<div id="box"></div>
+
+</body>
+</html>

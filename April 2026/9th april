@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Notes</title>
+</head>
+<body>
+
+<h1>HTML Notes</h1>
+
+<p>HTML is used to create webpages.</p>
+
+<ul>
+<li>Tags</li>
+<li>Elements</li>
+<li>Attributes</li>
+<li>Forms</li>
+<li>Tables</li>
+</ul>
+
+</body>
+</html>

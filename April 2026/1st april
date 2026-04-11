@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Assignment</title>
+</head>
+<body>
+
+<h1>My HTML Assignment</h1>
+
+<h2>About Me</h2>
+<p>My name is Akash. I am learning HTML and web development.</p>
+
+<h2>Skills</h2>
+<ul>
+    <li>HTML</li>
+    <li>Basic CSS</li>
+</ul>
+
+<h2>Education</h2>
+<table border="1">
+<tr>
+<th>Course</th>
+<th>Year</th>
+</tr>
+<tr>
+<td>BCA</td>
+<td>2026</td>
+</tr>
+</table>
+
+<h2>Contact Form</h2>
+<form>
+<input type="text" placeholder="Enter Name"><br><br>
+<input type="email" placeholder="Enter Email"><br><br>
+<button>Submit</button>
+</form>
+
+</body>
+</html>

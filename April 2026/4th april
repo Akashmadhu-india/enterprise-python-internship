@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Formatting Practice</title>
+</head>
+<body>
+
+<h1>Formatting Tags</h1>
+
+<b>Bold</b><br>
+<i>Italic</i><br>
+<u>Underline</u><br>
+
+<p>Water = H<sub>2</sub>O</p>
+<p>Math = X<sup>2</sup></p>
+
+</body>
+</html>

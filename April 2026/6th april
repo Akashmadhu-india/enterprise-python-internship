@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Topics</title>
+</head>
+<body>
+
+<h1>HTML Topics Covered</h1>
+
+<ul>
+<li>Basic Structure</li>
+<li>Headings</li>
+<li>Paragraphs</li>
+<li>Lists</li>
+<li>Tables</li>
+<li>Forms</li>
+</ul>
+
+</body>
+</html>
