@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Selectors</title>
+    <link rel="stylesheet" href="12_selector.css">
+</head>
+<body>
+
+<h1 id="main">CSS Selectors Demo</h1>
+
+<p class="text">This is paragraph one</p>
+<p class="text">This is paragraph two</p>
+
+<div class="box">Box 1</div>
+<div class="box">Box 2</div>
+
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+
+<input type="text" placeholder="Enter name">
+
+</body>
+</html>
+/* Universal selector */
+* {
+    margin: 5px;
+}
+
+/* ID selector */
+#main {
+    color: blue;
+    text-align: center;
+}
+
+/* Class selector */
+.text {
+    color: green;
+}
+
+/* Grouping selector */
+h1, p {
+    font-family: Arial;
+}
+
+/* Box styling */
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+}
+
+/* Hover */
+.box:hover {
+    background-color: orange;
+}
+
+/* List styling */
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: purple;
+}
+
+/* Input focus */
+input:focus {
+    background-color: yellow;
+}
