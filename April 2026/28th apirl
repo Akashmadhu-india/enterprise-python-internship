@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+p {
+    text-align: justify;
+}
+</style>
+</head>
+<body>
+
+<h1>Refined Page</h1>
+<p>This page shows improved alignment and readability.</p>
+
+</body>
+</html>

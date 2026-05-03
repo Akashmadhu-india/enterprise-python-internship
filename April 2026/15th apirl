@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function validate() {
+    let name = document.getElementById("n").value;
+
+    if(name.length < 3){
+        alert("Invalid Name");
+        return false;
+    }
+}
+</script>
+</head>
+
+<body>
+
+<form onsubmit="return validate()">
+<input type="text" id="n" placeholder="Name">
+<button>Submit</button>
+</form>
+
+</body>
+</html>

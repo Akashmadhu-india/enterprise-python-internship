@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+p { color: blue; }
+</style>
+</head>
+<body>
+
+<h2>Practice Page</h2>
+<p>This is practice for HTML & CSS</p>
+
+</body>
+</html>

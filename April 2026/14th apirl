@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Task</title>
+</head>
+<body>
+
+<h2>User Form</h2>
+
+<form>
+    Name: <input type="text"><br><br>
+    Email: <input type="email"><br><br>
+    Password: <input type="password"><br><br>
+
+    Gender:
+    <input type="radio">Male
+    <input type="radio">Female<br><br>
+
+    DOB: <input type="date"><br><br>
+
+    Address:<br>
+    <textarea></textarea><br><br>
+
+    <button>Submit</button>
+</form>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Task</title>
+</head>
+<body>
+
+<table border="1" cellpadding="10">
+<tr>
+    <th rowspan="2">State</th>
+    <th colspan="2">Fasting</th>
+    <th>After Eating</th>
+</tr>
+
+<tr>
+    <th>Min</th>
+    <th>Max</th>
+    <th>2 Hours</th>
+</tr>
+
+<tr>
+    <td>Healthy</td>
+    <td>70</td>
+    <td>100</td>
+    <td>&lt;140</td>
+</tr>
+
+</table>
+
+</body>
+</html>

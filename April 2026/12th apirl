@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Advanced Selectors</title>
+    <link rel="stylesheet" href="12_advanced.css">
+</head>
+<body>
+
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+
+</body>
+</html>
+📄 12_advanced.css
+li:first-child {
+    color: red;
+}
+
+li:last-child {
+    color: blue;
+}
+
+li:nth-child(2) {
+    color: green;
+}

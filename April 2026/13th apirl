@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Task</title>
+</head>
+<body>
+
+<h2>User Form</h2>
+
+<form>
+    Name: <input type="text"><br><br>
+    Email: <input type="email"><br><br>
+    Password: <input type="password"><br><br>
+
+    Gender:
+    <input type="radio">Male
+    <input type="radio">Female<br><br>
+
+    DOB: <input type="date"><br><br>
+
+    Address:<br>
+    <textarea></textarea><br><br>
+
+    <button>Submit</button>
+</form>
+
+</body>
+</html>

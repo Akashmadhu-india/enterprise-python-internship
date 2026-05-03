@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+.box {
+    background: orange;
+    padding: 20px;
+}
+</style>
+</head>
+<body>
+
+<div class="grid">
+    <div class="box">A</div>
+    <div class="box">B</div>
+</div>
+
+</body>
+</html>

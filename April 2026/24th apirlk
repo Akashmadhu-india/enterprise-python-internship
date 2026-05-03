@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.card {
+    width: 220px;
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 10px;
+}
+</style>
+</head>
+<body>
+
+<div class="card">
+    <h3>Profile Card</h3>
+    <p>Improved UI design</p>
+</div>
+
+</body>
+</html>

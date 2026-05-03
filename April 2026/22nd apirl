@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="22_colors.css">
+</head>
+<body>
+
+<div class="box">Color Box</div>
+
+</body>
+</html>.box {
+    background-color: coral;
+    color: white;
+    padding: 20px;
+    width: 200px;
+}
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 30px;
+}
+</style>
+</head>
+<body>
+
+<div>Box Model Example</div>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+h1 { font-size: 2em; }
+p { font-size: 18px; }
+</style>
+</head>
+<body>
+
+<h1>Units Example</h1>
+<p>This text uses px</p>
+
+</body>
+</html>

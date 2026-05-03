@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS Selectors</title>
+    <link rel="stylesheet" href="11_selectors.css">
+</head>
+<style>
+* {
+    margin: 5px;
+}
+
+/* ID */
+#title {
+    color: blue;
+}
+
+/* Class */
+.para {
+    color: green;
+}
+
+/* Descendant */
+div p {
+    color: red;
+}
+
+/* Focus */
+input:focus {
+    background: yellow;
+}
+
+</style>
+</head>
+<body>
+
+<h1 id="title">Selectors Demo</h1>
+
+<p class="para">Paragraph One</p>
+<p class="para">Paragraph Two</p>
+
+<div>
+    <p>Inside Div Paragraph</p>
+</div>
+
+<input type="text" placeholder="Focus me">
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+header { background: black; color: white; padding: 10px; }
+section { padding: 20px; }
+footer { background: gray; padding: 10px; }
+</style>
+</head>
+<body>
+
+<header>My Website</header>
+<section>Main Content Area</section>
+<footer>Footer Section</footer>
+
+</body>
+</html>
