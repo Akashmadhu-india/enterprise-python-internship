@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>Portfolio</title>
+
+    <style>
+
+        body{
+            background:#ececec;
+            font-family:Arial;
+        }
+
+        .container{
+            width:400px;
+            background:white;
+            margin:100px auto;
+            padding:30px;
+            border-radius:10px;
+            text-align:center;
+        }
+
+        img{
+            width:120px;
+            border-radius:50%;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+    <img src="https://via.placeholder.com/120">
+
+    <h1>Akash Madhu</h1>
+
+    <p>Frontend Developer Intern</p>
+
+</div>
+
+</body>
+</html>

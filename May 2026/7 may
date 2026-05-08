@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Project Layout</title>
+
+<style>
+
+body{
+    margin:0;
+    font-family:Arial;
+}
+
+header{
+    background:black;
+    color:white;
+    padding:20px;
+    text-align:center;
+}
+
+section{
+    padding:50px;
+    text-align:center;
+}
+
+footer{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+    <h1>Project Layout</h1>
+</header>
+
+<section>
+
+    <h2>Frontend Practice</h2>
+
+    <p>Learning webpage implementation using HTML and CSS.</p>
+
+</section>
+
+<footer>
+    Internship Practice
+</footer>
+
+</body>
+</html>

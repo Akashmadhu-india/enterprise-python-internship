@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Revision Layout</title>
+
+    <style>
+
+        body{
+            margin:0;
+            font-family:Verdana;
+        }
+
+        nav{
+            background:#222;
+            color:white;
+            padding:15px;
+            display:flex;
+            justify-content:space-around;
+        }
+
+        section{
+            text-align:center;
+            margin-top:100px;
+        }
+
+        .box{
+            width:250px;
+            height:180px;
+            background:orange;
+            margin:auto;
+            border-radius:12px;
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+<nav>
+    <div>Home</div>
+    <div>Services</div>
+    <div>Contact</div>
+</nav>
+
+<section>
+
+    <h1>Layout Revision</h1>
+
+    <div class="box"></div>
+
+</section>
+
+</body>
+</html>
